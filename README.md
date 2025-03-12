@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Cognizant Technology and Solutions**
 
-- 🌱 I’m currently learning **HTML, CSS, JS, REACT, MONGO DB**
+- 🌱 I’m currently learning **JAVA, HTML, CSS, JS, REACT, MONGO DB**
 
 - 👯 I’m looking to collaborate on **MERN applications**
 
