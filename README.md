@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaveri Shankar M</h1>
 <h3 align="center">A Curious frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Cognizant Technology and Solutions**
+- 🔭 I’m currently worked at **Cognizant Technology and Solutions**
 
 - 🌱 I’m currently learning **JAVA, HTML, CSS, JS, REACT, MONGO DB**
 
